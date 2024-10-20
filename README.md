@@ -1,6 +1,6 @@
 # breast_cancer_diagnosis
 
-# The following python files are for my breast cancer diagonsis project.
+# The following files are for my breast cancer diagonsis project.
 
 # There are 3 CSV files, "breast_cancer_kaggle.csv" is the original dataset."breast_cancer_kaggle_cleaned.csv" is the preprocessed dataset and "breast_cancer_kaggle_cleaned-2.csv" is the final revised dataset.
 
